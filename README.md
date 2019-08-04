@@ -1,2 +1,3 @@
 # marcobaldelli.github.io
-My blog
+
+For now just a placeholder for [my current blog](https://marcobaldelli.wordpress.com)
